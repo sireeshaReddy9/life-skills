@@ -43,7 +43,7 @@ Object-based programming language follows all the features of OOPs except Inheri
 / Java program for demonstrating the features and functionalities of OOPs concepts in Java.  
 class Animal {  
     private String name;  
-  
+
     // Constructor  
     public Animal(String name) {  
         this.name = name;  
@@ -102,3 +102,7 @@ public class OOPs {
         cat.makeSound();  
     }  
 }  
+
+## References
+ * https://www.javatpoint.com/java-oops-concepts  (website link)
+ * https://youtu.be/BSVKUk58K6U?si=XEHtetosRDrdbRiR (youtube link)
