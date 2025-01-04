@@ -4,21 +4,19 @@
 
 ## INTRODUCTION:
 As the name suggests, Object-Oriented Programming or Java OOPs concept refers to languages that use objects in programming, they use objects as a primary source to implement what is to happen in the code. Objects are seen by the viewer or user, performing tasks you assign.
-
 Object means a real-world entity such as a pen, chair, table, computer, watch, etc. Object-Oriented Programming is a methodology to design a program using classes and objects. It simplifies software development and maintenance by providing some concepts:
-    Object
-    Class
-    Inheritance
-    Polymorphism
-    Abstraction
-    Encapsulation
+   * Object
+   * Class
+   * Inheritance
+   * Polymorphism
+   * Abstraction
+   * Encapsulation
 ## Object
 object is an instance of class.It has properties and behaviour EX:-car is an object it has both properties(datatypes) and behaviour(methods).
 ## Class
 Collection of objects is called class. It is a logical entity.class is blueprint of an object.Class does not consume any space.It is imaginary and object is real.
 ## Inheritance
 The child class acquiring all the properties and behaviors of a parent object, it is known as inheritance. It provides code reusability. It is used to achieve runtime polymorphism.There are 3 methods in overriden.special and inherited methods.The method which is in parent class and the body is modified then it is overriden.The method which is just inherited then it is inherited method.The methods which are not in parent class and written in child classes then it is specialized methods.
-
 For overriding methods there are 3 rules:
 1.child class should maintain same access modifier as parent or greater.
 2.overriden methods should have same return type as parent.
@@ -42,17 +40,11 @@ Binding (or wrapping) code and data together into a single unit are known as enc
 A Java class is the example of encapsulation. Java bean is the fully encapsulated class because all the data members are private here.
 
 ## Advantage of OOPs over Procedure-Oriented Programming Language
-
-1) OOPs makes development and maintenance easier, whereas, in a procedure-oriented programming language, it is not easy to manage if code grows as project size increases.
-2) OOPs provides data hiding, whereas, in a procedure-oriented programming language, global data can be accessed from anywhere.
-Global Data
-3) OOPs provides the ability to simulate real-world event much more effectively. We can provide the solution of real word problem if we are using the Object-Oriented Programming language.
-
-
-
+* OOPs makes development and maintenance easier, whereas, in a procedure-oriented programming language, it is not easy to manage if code grows as project size increases.
+*  OOPs provides data hiding, whereas, in a procedure-oriented programming language, global data can be accessed from anywhere.
+*  Global Data OOPs provides the ability to simulate real-world event much more effectively. We can provide the solution of real word problem if we are using the Object-Oriented Programming language.
 
 ## What is the difference between an object-oriented programming language and object-based programming language?
-
 Object-based programming language follows all the features of OOPs except Inheritance. JavaScript and VBScript are examples of object-based programming languages.
 
 Filename: OOPs.java
@@ -94,4 +86,28 @@ class Dog extends Animal {
 // Derived class (Inheritance)  
 class Cat extends Animal {  
     // Constructor  
-    pub
+    public Cat(String name) {  
+        super(name);  
+    }  
+  
+    // Polymorphism: Overriding method  
+    @Override  
+    public void makeSound() {  
+        System.out.println("Meow");  
+    }  
+}  
+  
+public class OOPs {  
+    public static void main(String[] args) {  
+        // Creating objects of Dog and Cat classes  
+        Dog dog = new Dog("Buddy");  
+        Cat cat = new Cat("Whiskers");  
+  
+        // Accessing methods of base class through objects of derived classes  
+        System.out.println("Dog name: " + dog.getName());  
+        dog.makeSound();  
+  
+        System.out.println("Cat name: " + cat.getName());  
+        cat.makeSound();  
+    }  
+}  
