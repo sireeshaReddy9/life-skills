@@ -40,69 +40,91 @@ A Java class is the example of encapsulation. Java bean is the fully encapsulate
 ## What is the difference between an object-oriented programming language and object-based programming language?
 Object-based programming language follows all the features of OOPs except Inheritance. JavaScript and VBScript are examples of object-based programming languages.
 
-/ Java program for demonstrating the features and functionalities of OOPs concepts in Java.  
-class Animal {  
-    private String name;  
+/ Java program for demonstrating the features and functionalities of OOPs concepts in Java.
+
+// Base class
+
+
+public class Animal {
+
+    private String name;
 
     // Constructor  
+    
     public Animal(String name) {  
         this.name = name;  
     }  
-  
+
     // Encapsulation: Getter method  
+    
     public String getName() {  
         return name;  
     }  
-  
+
     // Polymorphism: Overridden method  
+    
     public void makeSound() {  
         System.out.println("Some sound");  
     }  
-}  
-  
-// Derived class (Inheritance)  
-class Dog extends Animal {  
-    // Constructor  
-    public Dog(String name) {  
-        super(name);  
-    }  
-  
+}
+
+// Derived class (Inheritance): Dog
+
+class Dog extends Animal {
+
+    // Constructor
+    
+    public Dog(String name) {
+        super(name);
+    }
+
     // Polymorphism: Overriding method  
+    
     @Override  
     public void makeSound() {  
         System.out.println("Woof");  
-    }  
-}  
-  
-// Derived class (Inheritance)  
-class Cat extends Animal {  
-    // Constructor  
-    public Cat(String name) {  
-        super(name);  
-    }  
-  
+    }
+}
+
+// Derived class (Inheritance): Cat
+
+class Cat extends Animal {
+
+    // Constructor
+    
+    public Cat(String name) {
+        super(name);
+    }
+
     // Polymorphism: Overriding method  
+    
     @Override  
     public void makeSound() {  
         System.out.println("Meow");  
-    }  
-}  
-  
-public class OOPs {  
-    public static void main(String[] args) {  
-        // Creating objects of Dog and Cat classes  
-        Dog dog = new Dog("Buddy");  
-        Cat cat = new Cat("Whiskers");  
-  
+    }
+}
+
+// Main class
+
+public class OOPs {
+
+    public static void main(String[] args) {
+    
+        // Creating objects of Dog and Cat classes
+        
+        Dog dog = new Dog("Buddy");
+        Cat cat = new Cat("Whiskers");
+
         // Accessing methods of base class through objects of derived classes  
+        
         System.out.println("Dog name: " + dog.getName());  
         dog.makeSound();  
-  
+
         System.out.println("Cat name: " + cat.getName());  
         cat.makeSound();  
-    }  
-}  
+    }
+}
 
 ## References
- * https://www.javatpoint.com/java-oops-concepts  (website link)
- * https://youtu.be/BSVKUk58K6U?si=XEHtetosRDrdbRiR (youtube link)
+* https://www.javatpoint.com/java-oops-concepts  (javat website)
+* https://youtu.be/OY2lPr8h93U?si=y7yEB9dfNo2Ln1iB  (youtube link)
