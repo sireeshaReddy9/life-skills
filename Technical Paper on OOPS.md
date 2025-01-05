@@ -127,4 +127,4 @@ public class OOPs {
 
 ## References
 * https://www.javatpoint.com/java-oops-concepts  (javat website)
-* https://youtu.be/OY2lPr8h93U?si=y7yEB9dfNo2Ln1iB  (youtube link)
+* https://www.youtube.com/watch?v=BSVKUk58K6U&t=1362s (youtube link)
