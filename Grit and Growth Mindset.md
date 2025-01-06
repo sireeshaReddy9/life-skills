@@ -28,6 +28,5 @@ This video introduces the concept of a growth mindset, which is the belief that 
 * Set Goals: Define clear, achievable goals and work steadily towards them.
 * Stay Curious: Always ask questions and seek to understand the underlying principles of the technologies and methods you use.
 * Collaborate: Work with peers to gain different perspectives and enhance your learning experience.
-* Feel free to ask if you need more detailed explanations or have any other questions
 
 ---
