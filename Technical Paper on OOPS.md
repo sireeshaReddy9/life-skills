@@ -58,43 +58,42 @@ Object-based programming language follows all the features of OOPs except Inheri
 
 #### Java program for demonstrating the features and functionalities of OOPs concepts in Java.
 
-// Base class
+
+Base class
 
 
-public class Animal {
+``` elixir
+ public class Animal {
 
-    private String name;
+     private String name;
+    # Constructor  
 
-    // Constructor  
-    
     public Animal(String name) {  
         this.name = name;  
-    }  
-
-    // Encapsulation: Getter method  
-    
+    }
+   # Encapsulation: Getter method  
     public String getName() {  
         return name;  
     }  
 
-    // Polymorphism: Overridden method  
+    # Polymorphism: Overridden method  
     
     public void makeSound() {  
         System.out.println("Some sound");  
     }  
 }
 
-// Derived class (Inheritance): Dog
+# Derived class (Inheritance): Dog
 
 class Dog extends Animal {
 
-    // Constructor
+    # Constructor
     
     public Dog(String name) {
         super(name);
     }
 
-    // Polymorphism: Overriding method  
+    # Polymorphism: Overriding method  
     
     @Override  
     public void makeSound() {  
@@ -102,17 +101,17 @@ class Dog extends Animal {
     }
 }
 
-// Derived class (Inheritance): Cat
+# Derived class (Inheritance): Cat
 
 class Cat extends Animal {
 
-    // Constructor
+    # Constructor
     
     public Cat(String name) {
         super(name);
     }
 
-    // Polymorphism: Overriding method  
+    # Polymorphism: Overriding method  
     
     @Override  
     public void makeSound() {  
@@ -120,18 +119,18 @@ class Cat extends Animal {
     }
 }
 
-// Main class
+# Main class
 
 public class OOPs {
 
     public static void main(String[] args) {
-    
-        // Creating objects of Dog and Cat classes
+  
+        # Creating objects of Dog and Cat classes
         
         Dog dog = new Dog("Buddy");
         Cat cat = new Cat("Whiskers");
 
-        // Accessing methods of base class through objects of derived classes  
+        # Accessing methods of base class through objects of derived classes  
         
         System.out.println("Dog name: " + dog.getName());  
         dog.makeSound();  
@@ -139,7 +138,9 @@ public class OOPs {
         System.out.println("Cat name: " + cat.getName());  
         cat.makeSound();  
     }
-}
+} \```
+
+
 
 ---
 ## References
