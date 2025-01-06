@@ -59,10 +59,8 @@ Object-based programming language follows all the features of OOPs except Inheri
 #### Java program for demonstrating the features and functionalities of OOPs concepts in Java.
 
 
-Base class
-
-
 ``` elixir
+ # Base class
  public class Animal {
      private String name;
 
