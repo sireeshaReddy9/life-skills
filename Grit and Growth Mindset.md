@@ -7,7 +7,8 @@ This video introduces the concept of a growth mindset, which is the belief that 
 
 ---
 ### 3.What is the Internal Locus of Control? What is the key point in the video?
-**Internal Locus of Control:** It refers to the belief that individuals have control over their own lives and outcomes, rather than external forces. 
+**Internal Locus of Control:** It refers to the belief that individuals have control over their own lives and outcomes, rather than external forces.
+
 **Key Point in the Video:** The video emphasizes that people with an internal locus of control tend to stay motivated by taking responsibility for their actions and believing they can influence their own success.
 
 ---
