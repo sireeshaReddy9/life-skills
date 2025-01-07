@@ -13,34 +13,47 @@
 * Clarify: Ask questions to ensure you understand the speaker's message correctly.
 * Validate: Acknowledge the speaker's feelings and thoughts, showing that you hear and understand them.
 
+  ---
+
 ## 3. What are the obstacles in your listening process?
-* Distractions: Environmental noise or personal thoughts can take your focus away from the speaker.
-* Prejudgments: Having preconceived notions about the speaker or topic can block you from truly listening.
-* Lack of Interest: If the topic doesn't seem engaging, it's easy to zone out.
-* Body Language: Poor non-verbal communication, like avoiding eye contact or closed posture, can signal disinterest.
+* distractions are a big one. If there's a lot of noise around me, or if I’m distracted by my own thoughts, it’s tough to really focus on what someone’s saying.
+* prejudging the situation. Sometimes, if I already have an idea of what the speaker’s going to say or if I have a bias about the topic, it can block me from truly listening and being open to their point of view.
+*  I'm not interested in the topic, it’s easy to zone out. If it doesn’t grab my attention, my mind starts wandering, and I struggle to stay engaged.
+*  I can’t ignore body language. If the speaker seems closed off or avoids eye contact, it’s hard for me to stay fully engaged. It’s like I pick up on those signals and it affects how connected I feel to the conversation.
+
+  ---
 
 ## 4. What can you do to improve your listening?
-* Eliminate Distractions: Find a quiet place and put away your phone or other distractions.
-* Keep an Open Mind: Set aside biases and judgments to fully understand the speaker's perspective.
-* Practice Patience: Allow the speaker to finish their thoughts without interrupting.
+* I try to eliminate distractions first. That means finding a quiet spot where I can focus and putting my phone away so I’m not checking notifications or getting distracted by other things. It helps me stay fully present in the conversation.
+* I remind myself to set aside any biases and really listen to the other person’s point of view.
+* I make an effort to be patient and let the speaker finish their thoughts before I jump in.
 
+  ---
+
+  
 ## 5.When do you switch to Passive communication style in your day to day life?
-* Social Situations: In social gatherings where you might feel outnumbered or unsure of yourself, being passive can seem like the safer option.
-* Dealing with Authority Figures: When interacting with a boss, teacher, or someone in a position of power, you might adopt a more passive stance to show respect or avoid negative consequences.
-* Trying to Be Polite: Sometimes, you might choose not to speak up to be polite and considerate of others' feelings.
+* In social situations, when I feel outnumbered or unsure, being passive can feel like the safer choice.
+* When I’m dealing with authority figures, like my boss or a teacher, I sometimes stay passive to show respect or avoid any conflict.
+*  I choose to be polite and not speak up, just to avoid upsetting others or making them uncomfortable.
+
+---
 
 ## 6.When do you switch into Aggressive communication styles in your day to day life?
-* Stressful Situations: When feeling overwhelmed or under pressure, it can be easy to respond aggressively without meaning to.
-* Feeling Threatened: If someone feels their ideas, values, or personal space are being attacked, they might react aggressively to defend themselves.
-* Lack of Patience: When someone is in a hurry or feeling impatient, they might use a more aggressive tone or language.
+* In stressful situations, when I’m feeling pressured, it’s easy to respond more aggressively without meaning to.
+* If I’m feeling threatened, whether it’s my ideas or personal space being challenged, I might react aggressively to defend myself.
+* when I’m short on time or feeling impatient, I tend to use a more aggressive tone or language without realizing it.
 
+  ---
+
+  
 ## 7.When do you switch into Passive Aggressive (sarcasm/gossiping/taunts/silent treatment and others) communication styles in your day to day life?
-* Feeling Undervalued: When you feel that your efforts or opinions aren’t appreciated, you might resort to taunts or gossip to vent your frustrations.
-* Fear of Rejection: If you’re worried about how someone will react to your honest feelings, you might use indirect methods to communicate your dissatisfaction.
-* Social Norms: Sometimes, social or cultural norms discourage direct confrontation, leading to more passive-aggressive forms of expression.
+* When I’m feeling undervalued, like my efforts or opinions aren’t being appreciated, I might end up venting through taunts or gossip.
+* If I have a fear of rejection, I might avoid being direct and use more indirect ways to express my dissatisfaction, just to protect myself.
+*  social norms can play a role—when direct confrontation is discouraged, I might end up expressing myself in more passive-aggressive ways instead.
 
+  ---
+  
 ## 8.How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life? (Watch the videos first before answering this question.)
- * Stay Calm and Confident: Maintain a steady tone, make eye contact, and use relaxed body language.
- * Be Clear and Direct: State your needs and opinions openly without beating around the bush.
- * Use "I" Statements: Express your thoughts and feelings by starting with "I," such as "I feel" or "I think."
- * Listen Actively: Pay attention to what others are saying and acknowledge their points.
+ * I try to stay calm and confident by keeping a steady tone, making eye contact, and using relaxed body language.
+ * I also make an effort to be clear and direct, stating my needs and opinions openly without over-explaining.
+ * And I always try to listen actively, paying attention to what others are saying and acknowledging their points.
